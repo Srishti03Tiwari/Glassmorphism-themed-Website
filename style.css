@@ -32,7 +32,7 @@
 
 body{
     min-height: 100vh;
-    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg");
+    background-image: url("Background.jpg");
     background-attachment: fixed;
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
